@@ -2,6 +2,9 @@
 Bu proje, Bilgisayarla Görüye Giriş dersi kapsamında gerçekleştirilmiştir. Python ve popüler makine öğrenimi kütüphaneleri kullanılarak belirli bir problem üzerinde bilgisayarla görme tekniklerinin uygulanmasını hedefler.
 
 ---
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/fatihserdeniz/cvintroproject)
+
+---
 ## İçindekiler
 - [Proje Özeti](#proje-özeti)
 - [Kurulum](#kurulum)
@@ -10,6 +13,7 @@ Bu proje, Bilgisayarla Görüye Giriş dersi kapsamında gerçekleştirilmiştir
 - [Katkı Sağlama](#katkı-sağlama)
 - [Lisans](#lisans)
 ---
+
 ## Proje Özeti
 Bu proje, Python kullanılarak bilgisayarla görme tekniklerinin uygulanmasını göstermektedir. Veri ön işleme, model eğitimi, değerlendirme ve görselleştirme gibi görevleri içerir. Projede etkileşimli keşif için Jupyter Notebook kullanılmaktadır.
 
