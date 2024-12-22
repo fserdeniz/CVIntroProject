@@ -1,6 +1,11 @@
 # Detection of Defects on Metal Surfaces Using YOLOv11
 This project was carried out as part of the Introduction to Computer Vision course. It focuses on leveraging computer vision techniques for a specific problem using Python and popular machine learning libraries.
 
+---
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/fatihserdeniz/cvintroproject)
+
+---
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Installation](#installation)
