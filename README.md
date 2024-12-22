@@ -15,11 +15,11 @@ This project demonstrates the application of computer vision techniques using Py
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/fserdeniz/CVIntroProject.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cvintroproject
+   cd CVIntroProject
    ```
    
 ## Usage
