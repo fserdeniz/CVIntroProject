@@ -1,4 +1,4 @@
-# Bilgisayarla Görüye Giriş Projesi
+# YOLOv11 ile Metal Yüzeylerdeki Hasarların Tespiti
 Bu proje, Bilgisayarla Görüye Giriş dersi kapsamında gerçekleştirilmiştir. Python ve popüler makine öğrenimi kütüphaneleri kullanılarak belirli bir problem üzerinde bilgisayarla görme tekniklerinin uygulanmasını hedefler.
 
 ---
