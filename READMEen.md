@@ -1,4 +1,4 @@
-# Computer Vision Introduction Project
+# Detection of Defects on Metal Surfaces Using YOLOv11
 This project was carried out as part of the Introduction to Computer Vision course. It focuses on leveraging computer vision techniques for a specific problem using Python and popular machine learning libraries.
 
 ## Table of Contents
